@@ -1,0 +1,15 @@
+# 仅保留项目展示页，代码不开源
+视觉流水线/
+*.py
+*.pyc
+__pycache__/
+generated/
+screenshots/
+screenshot_*.png
+*_vision.txt
+*_llava.txt
+dev_agent_*.py
+dev_orchestrator.py
+dev_prompts.py
+CLAUDE.md
+.claude/
